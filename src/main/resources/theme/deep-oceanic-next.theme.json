@@ -1,0 +1,275 @@
+{
+  "name": "Deep Oceanic Next",
+  "dark": true,
+  "author": "spearkkk",
+  "editorScheme": "/theme/deep-oceanic-next.xml",
+  "colors": {
+    "base00": "#003b46",
+    "base01": "#004f5e",
+    "base02": "#006374",
+    "base03": "#007a8a",
+    "base04": "#0093a3",
+    "base05": "#dce3e8",
+    "base06": "#e6ebf0",
+    "base07": "#f0f5f5",
+    "base08": "#e6454b",
+    "base09": "#ff6a4b",
+    "base0A": "#ffcc66",
+    "base0B": "#85b57a",
+    "base0C": "#4da6a6",
+    "base0D": "#3a82e6",
+    "base0E": "#8c4de6",
+    "base0F": "#e673a3",
+    "base10": "#001114",
+    "base11": "#000a0d",
+    "base12": "#ff5a61",
+    "base13": "#ffdd80",
+    "base14": "#99d8a0",
+    "base15": "#66cccc",
+    "base16": "#4da6ff",
+    "base17": "#a366ff"
+  },
+  "ui": {
+    "*": {
+      "background": "base00",
+      "disabledBackground": "base00",
+      "inactiveBackground": "base01",
+      "selectionBackground": "base10",
+      "selectionBackgroundInactive": "base01",
+      "selectionInactiveBackground": "base01",
+      "foreground": "base05",
+      "disabledForeground": "base06",
+      "inactiveForeground": "base06",
+      "selectionForeground": "base0A",
+      "selectionInactiveForeground": "base06",
+      "acceleratorSelectionForeground": "base13",
+      "borderColor": "base10",
+      "focusedBorderColor": "base11",
+      "separatorColor": "base11",
+      "disabledText": "base01",
+      "focusColor": "base0A",
+      "infoForeground": "base07"
+    },
+    "ActionButton": {
+      "hoverBackground": "base01",
+      "hoverBorderColor": "base01",
+      "pressedBackground": "base10",
+      "pressedBorderColor": "base10"
+    },
+    "Borders": {
+      "ContrastBorderColor": "base11",
+      "color": "base10"
+    },
+    "Button": {
+      "arc": 5,
+      "background": "base00",
+      "foreground": "base05",
+      "disabledBorderColor": "base10",
+      "disabledText": "base01",
+      "endBackground": "base00",
+      "endBorderColor": "base10",
+      "focusedBorderColor": "base0A",
+      "shadowColor": "base10",
+      "shadowWidth": 0,
+      "startBackground": "base00",
+      "startBorderColor": "base10",
+      "default": {
+        "startBackground": "base00",
+        "endBackground": "base00",
+        "foreground": "base0A",
+        "focusedBorderColor": "base0A",
+        "endBorderColor": "base10",
+        "startBorderColor": "base10"
+      }
+    },
+    "CheckBox": {
+      "background": "base00",
+      "foreground": "base05",
+      "disabledText": "base01",
+      "select": "base0A"
+    },
+    "ComboBox": {
+      "background": "base00",
+      "foreground": "base05",
+      "nonEditableBackground": "base00",
+      "disabledForeground": "base01",
+      "ArrowButton.background": "base00",
+      "ArrowButton.iconColor": "base05",
+      "ArrowButton.disabledIconColor": "base01",
+      "ArrowButton.nonEditableBackground": "base00"
+    },
+    "Component": {
+      "disabledBorderColor": "base01",
+      "borderColor": "base10",
+      "arc": 5,
+      "focusColor": "base0A",
+      "focusedBorderColor": "base0A",
+      "errorFocusColor": "base08",
+      "warningFocusColor": "base09",
+      "infoForeground": "base0A",
+      "inactiveErrorFocusColor": "base01",
+      "inactiveWarningFocusColor": "base01"
+    },
+    "Counter": {
+      "background": "base00",
+      "foreground": "base05"
+    },
+    "DragAndDrop": {
+      "borderColor": "base10",
+      "areaBackground": "base00",
+      "areaForeground": "base05",
+      "rowBackground": "base0A"
+    },
+    "FormattedTextField": {
+      "background": "base00",
+      "foreground": "base05",
+      "selectionBackground": "base10",
+      "selectionForeground": "base0A",
+      "inactiveBackground": "base01",
+      "inactiveForeground": "base10",
+      "caretForeground": "base0C"
+    },
+    "Group": {
+      "separatorColor": "base10",
+      "disabledSeparatorColor": "base01"
+    },
+    "HelpTooltip.borderColor": "base10",
+    "Label": {
+      "selectedForeground": "base0A",
+      "disabledForeground": "base01",
+      "disabledText": "base01",
+      "infoForeground": "base0A",
+      "successForeground": "base0B",
+      "errorForeground": "base08"
+    },
+    "Link": {
+      "activeForeground": "base0C",
+      "visitedForeground": "base01",
+      "hoverForeground": "base01",
+      "secondaryForeground": "base01",
+      "pressedForeground": "base01"
+    },
+    "Panel": {
+      "background": "base00",
+      "foreground": "base05",
+      "mouseShortcutBackground": "base00"
+    },
+    "ToolWindow": {
+      "background": "base00",
+      "Button": {
+        "hoverBackground": "base10",
+        "selectedBackground": "base10",
+        "selectedForeground": "base0A"
+      },
+      "Header": {
+        "background": "base00",
+        "borderColor": "base11",
+        "inactiveBackground": "base01"
+      },
+      "HeaderTab": {
+        "selectedBackground": "base00",
+        "selectedInactiveBackground": "base00",
+        "hoverInactiveBackground": "base00",
+        "hoverBackground": "base00",
+        "underlinedTabBackground": "base00",
+        "underlinedTabInactiveBackground": "base00"
+      },
+      "HeaderCloseButton": {
+        "background": "base00"
+      }
+    },
+    "Tree": {
+      "background": "base00",
+      "foreground": "base05",
+      "hoverBackground": "base10",
+      "hoverInactiveBackground": "base03",
+      "selectionBackground": "base10",
+      "selectionForeground": "base0A",
+      "selectionInactiveBackground": "base03",
+      "hash": "base01",
+      "modifiedItemForeground": "base13",
+      "rowHeight": 25
+    },
+    "DefaultTabs": {
+      "background": "base00",
+      "borderColor": "base10",
+      "hoverBackground": "base10",
+      "underlinedTabBackground": "base10",
+      "underlinedTabForeground": "base0A",
+      "inactiveUnderlineColor": "base01",
+      "underlineColor": "base01",
+      "underlineHeight": 2
+    },
+    "Editor": {
+      "background": "base00",
+      "foreground": "base05",
+      "shortcutForeground": "base0C"
+    },
+    "EditorTabs": {
+      "hoverBackground": "base10",
+      "hoverInactiveBackground": "base01",
+      "hoverSelectedBackground": "base11",
+      "hoverSelectedInactiveBackground": "base01",
+      "underlinedTabBackground": "base10"
+    },
+    "ScrollBar": {
+      "background": "base00",
+      "hoverThumbBorderColor": "base10",
+      "hoverThumbColor": "base10",
+      "hoverTrackColor": "base10"
+    },
+    "Plugins": {
+      "lightSelectionBackground": "base10",
+      "disabledForeground": "base01",
+      "hoverBackground": "base10",
+      "Button": {
+        "updateBorderColor": "base0A",
+        "updateForeground": "base0A",
+        "installBorderColor": "base0C",
+        "installForeground": "base0C",
+        "installFillForeground": "base0C",
+        "installFillBackground": "base00"
+      }
+    },
+    "Table": {
+      "lightSelectionBackground": "base10",
+      "lightSelectionInactiveBackground": "base01"
+    },
+    "TabbedPane": {
+      "background": "base00"
+    },
+    "TableHeader": {
+      "background": "base00"
+    },
+    "NavBar": {
+      "borderColor": "base10"
+    },
+    "VersionControl.Log.Commit.currentBranchBackground": "base01",
+    "SegmentedButton": {
+      "focusedSelectedButtonColor": "base10",
+      "selectedEndBorderColor": "base10",
+      "selectedStartBorderColor": "base10",
+      "selectedButtonColor": "base01"
+    },
+    "VersionControl": {
+      "HgLog": {
+        "bookmarkIconColor": "base0E",
+        "branchIconColor": "base0B",
+        "closedBranchIconColor": "base09",
+        "headIconColor": "base08",
+        "localTagIconColor": "base0C",
+        "mqTagIconColor": "base0D",
+        "tagIconColor": "base04",
+        "tipIconColor": "base0A"
+      },
+      "Log": {
+        "Commit": {
+          "currentBranchBackground": "base01",
+          "Reference.foreground": "base05",
+          "unmatchedForeground": "base07"
+        }
+      },
+      "FileHistory.Commit.selectedBranchBackground": "base01"
+    }
+  }
+}
