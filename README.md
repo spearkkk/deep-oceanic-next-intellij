@@ -11,7 +11,19 @@
 I just have re-created color theme while imagine how deep ocean is pretty.  
 Someday I hope getting chance to sea real deep ocean.  
 
-Feel free to use and enjoy this theme!
+**Feel free to use and enjoy this theme!**
+
+---
+Really Thanks...❤️
+- [oceanic-next-color-theme](https://github.com/voronianski/oceanic-next-color-scheme)
+- [Deep Ocean Theme](https://plugins.jetbrains.com/plugin/16729-deep-ocean-theme)
+- [Deep Ocean Background Image](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%98%EC%A4%91-%EC%82%AC%EC%A7%84-1braZySlEKA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) by [Jeremy Bishop](https://unsplash.com/ko/@jeremybishop?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [base16-jetbrains](https://github.com/tinted-theming/base16-jetbrains)
+- [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- [Building Themes for IntelliJ-based IDEs](https://www.youtube.com/live/9J0j-90dC60?si=XOdcJnYQxzJVW5K_)
+
+
+
 <!-- Plugin description end -->
 
 Plugin based on the [IntelliJ Platform Plugin Template][template].
