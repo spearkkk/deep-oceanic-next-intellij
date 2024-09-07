@@ -48,8 +48,10 @@
       "separatorColor": "base11",
       "disabledText": "base01",
       "focusColor": "base0A",
-      "infoForeground": "base07"
+      "infoForeground": "base07",
+      "textBackground": "base00"
     },
+
     "ActionButton": {
       "hoverBackground": "base01",
       "hoverBorderColor": "base01",
@@ -296,8 +298,7 @@
         "activeBackground": "base00",
         "activeForeground": "base0A",
         "inactiveBackground": "base01",
-        "inactiveForeground": "base10",
-        "insets": "base00"
+        "inactiveForeground": "base10"
       }
     }
   },
