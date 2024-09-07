@@ -300,5 +300,35 @@
         "insets": "base00"
       }
     }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#006374",
+      "Actions.Red": "#e6454b",
+      "Actions.Yellow": "#ffcc66",
+      "Actions.Green": "#85b57a",
+      "Actions.Blue": "#3a82e6",
+      "Actions.GreyInline.Dark": "#004f5e",
+      "Objects.Grey": "#006374",
+      "Objects.RedStatus": "#ff5a61",
+      "Objects.Red": "#e6454b",
+      "Objects.Pink": "#e673a3",
+      "Objects.Yellow": "#ffcc66",
+      "Objects.Green": "#85b57a",
+      "Objects.Blue": "#3a82e6",
+      "Objects.Purple": "#8c4de6",
+      "Objects.BlackText": "#001114",
+      "Objects.YellowDark": "#ff6a4b",
+      "Objects.GreenAndroid": "#4da6a6",
+      "Checkbox.Background.Default.Dark": "#003b46",
+      "Checkbox.Border.Default.Dark": "#001114",
+      "Checkbox.Foreground.Selected.Dark": "#ffcc66",
+      "Checkbox.Focus.Wide.Dark": "#001114",
+      "Checkbox.Focus.Thin.Default.Dark": "#004f5e",
+      "Checkbox.Focus.Thin.Selected.Dark": "#007a8a",
+      "Checkbox.Background.Disabled.Dark": "#004f5e",
+      "Checkbox.Border.Disabled.Dark": "#004f5e",
+      "Checkbox.Foreground.Disabled.Dark": "#007a8a"
+    }
   }
 }
