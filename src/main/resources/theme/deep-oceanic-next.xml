@@ -2,6 +2,24 @@
         Author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)   -->
 
 <scheme name="Deep Oceanic Next" version="142" parent_scheme="Darcula">
+    <option name="LINE_SPACING" value="1.3"/>
+    <option name="EDITOR_FONT_SIZE" value="14"/>
+    <font>
+        <option name="EDITOR_FONT_NAME" value="Hack Nerd Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="14"/>
+    </font>
+    <font>
+        <option name="EDITOR_FONT_NAME" value="Menlo"/>
+        <option name="EDITOR_FONT_SIZE" value="14"/>
+    </font>
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="Hack Nerd Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="14"/>
+    </console-font>
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="Menlo"/>
+        <option name="EDITOR_FONT_SIZE" value="14"/>
+    </console-font>
     <colors>
         <option name="ADDED_LINES_COLOR" value="85b57a" />
         <option name="ANNOTATIONS_COLOR" value="dce3e8" />
