@@ -1,15 +1,23 @@
-# deep-oceanic-next-intellij
-
-![Build](https://github.com/spearkkk/deep-oceanic-next-intellij/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/25272)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/25272)
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/spearkkk/deep-oceanic-next/93d6557c42fda451679225133acee3d62773dcfd/big_wave.svg" width="100" alt="big_wave"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	<a href="https://github.com/spearkkk/deep-oceanic-next">Deep Oceanic Next</a> Color Theme for <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme">IntelliJ</a>
+</h3>
+<p align="center">
+	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/stargazers"><img src="https://img.shields.io/github/stars/spearkkk/deep-oceanic-next-intellij?colorA=001114&colorB=ffcc66&style=for-the-badge"></a>
+	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/contributors"><img src="https://img.shields.io/github/contributors/spearkkk/deep-oceanic-next-intellij?colorA=001114&colorB=4da6a6&style=for-the-badge"></a>
+    <a href="https://github.com/spearkkk/deep-oceanic-next-intellij"><img src="https://img.shields.io/github/actions/workflow/status/spearkkk/deep-oceanic-next-intellij/build.yml?colorA=001114&colorB=e673a3&style=for-the-badge"></a>
+    <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme"><img src="https://img.shields.io/jetbrains/plugin/d/25272?colorA=001114&colorB=004f5e&style=for-the-badge"></a>
+</p>
 
 <!-- Plugin description -->
+
 [Deep Oceanic Next](https://github.com/spearkkk/deep-oceanic-next) theme is inspired by [oceanic-next-color-theme](https://github.com/voronianski/oceanic-next-color-scheme) and [Deep Ocean Theme](https://plugins.jetbrains.com/plugin/16729-deep-ocean-theme).  
 
-🌊 Have you ever been in deep ocean?  
-I just have re-created color theme while imagine how deep ocean is pretty.  
-Someday I hope getting chance to sea real deep ocean.  
+---
+### 🌊 Have you ever been in deep ocean?  
+I just have recreated color theme while imagine how deep ocean is pretty.    
+Someday I hope getting chance to see real deep ocean.  
 
 **Feel free to use and enjoy this theme!**
 
