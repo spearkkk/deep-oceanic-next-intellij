@@ -4,3 +4,5 @@
 .qodana
 build
 **/*.pem
+**/*.crt
+.DS_Store
