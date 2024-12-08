@@ -1,13 +1,13 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/spearkkk/deep-oceanic-next/93d6557c42fda451679225133acee3d62773dcfd/big_wave.svg" width="100" alt="big_wave"/><br/>
+	<img src="https://raw.githubusercontent.com/spearkkk/deep-oceanic-next/5f801ccb676e35ddcc49d8fdf3e7ca6441c5c57e/big_wave_rectangle.svg" width="100" alt="big_wave"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	<a href="https://github.com/spearkkk/deep-oceanic-next">Deep Oceanic Next</a> Color Theme for <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme">IntelliJ</a>
 </h3>
 <p align="center">
-	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/stargazers"><img src="https://img.shields.io/github/stars/spearkkk/deep-oceanic-next-intellij?colorA=001114&colorB=ffcc66&style=for-the-badge"></a>
-	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/contributors"><img src="https://img.shields.io/github/contributors/spearkkk/deep-oceanic-next-intellij?colorA=001114&colorB=4da6a6&style=for-the-badge"></a>
-    <a href="https://github.com/spearkkk/deep-oceanic-next-intellij"><img src="https://img.shields.io/github/actions/workflow/status/spearkkk/deep-oceanic-next-intellij/build.yml?colorA=001114&colorB=e673a3&style=for-the-badge"></a>
-    <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme"><img src="https://img.shields.io/jetbrains/plugin/d/25272?colorA=001114&colorB=004f5e&style=for-the-badge"></a>
+	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/stargazers"><img src="https://img.shields.io/github/stars/spearkkk/deep-oceanic-next-intellij?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
+	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/contributors"><img src="https://img.shields.io/github/contributors/spearkkk/deep-oceanic-next-intellij?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
+    <a href="https://github.com/spearkkk/deep-oceanic-next-intellij"><img src="https://img.shields.io/github/actions/workflow/status/spearkkk/deep-oceanic-next-intellij/build.yml?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
+    <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme"><img src="https://img.shields.io/jetbrains/plugin/d/25272?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
 </p>
 
 <!-- Plugin description -->
