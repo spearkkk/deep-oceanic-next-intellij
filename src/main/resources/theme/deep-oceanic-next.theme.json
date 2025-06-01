@@ -35,7 +35,7 @@
     "disabledBackground": "#002931",
     "selectionBackground": "#f3b863",
     "selectionForeground": "#1f2628",
-    "selectionInactiveBackground": "#e37552",
+    "selectionInactiveBackground": "#4fb7ae",
     "selectionInactiveForeground": "#1f2628",
     "borderColor": "#003640",
     "separatorColor": "#003640",
@@ -211,9 +211,9 @@
         "updateBackground": "primaryForeground"
       },
       "Tab": {
-        "selectedBackground": "selectionBackground",
+        "selectedBackground": "primaryBackground",
         "selectedForeground": "primaryForeground",
-        "hoverBackground": "hoverBackground"
+        "hoverBackground": "base10"
       }
     },
     "ProgressBar": {
@@ -294,10 +294,15 @@
         "inactiveBackground": "secondaryBackground"
       },
       "HeaderTab": {
-        "underlineColor": "secondaryAccentColor",
+
+        "underlineColor": "hoverBackground",
         "underlineHeight": 4,
-        "underlinedTabBackground": "base11",
-        "underlinedTabInactiveBackground": "base09"
+        "underlinedTabBackground": "secondaryBackground",
+        "hoverInactiveBackground": "hoverBackground",
+        "selectedInactiveBackground": "base0F",
+        "underlinedTabInactiveBackground": "primaryBackground",
+        "inactiveUnderlineColor": "primaryBackground"
+
       }
     },
     "Tree": {
@@ -348,23 +353,32 @@
         }
       },
       "Details": {
-        "background": "hoverBackground"
+        "background": "primaryBackground"
       }
-    }
+    },
+    "StatusBar.fontSizeOffset": 2,
+    "MainToolbar.fontSizeOffset": 2,
+    "DebuggerTabs.fontSizeOffset": 3,
+    "EditorTabs.fontSizeOffset": 3,
+    "CompletionPopup.Advertiser.fontSizeOffset": 3,
+    "RunWidget.configurationSelectorFontSizeOffset": 3,
+    "ToolWindow.Header.fontSizeOffset": 3
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#base03",
-      "Checkbox.Background.Disabled.Dark": "#base01",
-      "Checkbox.Background.Selected.Dark": "#base03",
-      "Checkbox.Border.Default.Dark": "#base03",
-      "Checkbox.Border.Disabled.Dark": "#base01",
-      "Checkbox.Border.Selected.Dark": "#base03",
-      "Checkbox.Focus.Thin.Default.Dark": "#base03",
-      "Checkbox.Focus.Thin.Selected.Dark": "#base01",
-      "Checkbox.Focus.Wide.Dark": "#base03",
-      "Checkbox.Foreground.Disabled.Dark": "#base06",
-      "Checkbox.Foreground.Selected.Dark": "#base07"
+      "Checkbox.Background.Default.Dark": "base00",
+      "Checkbox.Border.Selected": "base0A",
+      "Checkbox.Border.Selected.Dark": "base0A",
+      "Checkbox.Focus.Thin.Selected": "base15",
+      "Checkbox.Focus.Thin.Selected.Dark": "base15",
+      "Checkbox.Focus.Wide": "base15",
+      "Checkbox.Focus.Wide.Dark": "base15",
+      "Checkbox.Background.Disabled": "base11",
+      "Checkbox.Background.Disabled.Dark": "base11",
+      "Checkbox.Border.Disabled": "base11",
+      "Checkbox.Border.Disabled.Dark": "base11",
+      "Checkbox.Foreground.Disabled": "base00",
+      "Checkbox.Foreground.Disabled.Dark": "base00"
     }
   }
 }
