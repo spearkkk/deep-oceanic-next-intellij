@@ -33,15 +33,15 @@
     "secondaryBackground": "#002931",
     "inactiveBackground": "#002931",
     "disabledBackground": "#002931",
-    "selectionBackground": "#f3b863",
+    "selectionBackground": "#0093a3",
     "selectionForeground": "#1f2628",
-    "selectionInactiveBackground": "#4fb7ae",
+    "selectionInactiveBackground": "#004852",
     "selectionInactiveForeground": "#1f2628",
     "borderColor": "#003640",
     "separatorColor": "#003640",
     "accentColor": "#4fb7ae",
     "secondaryAccentColor": "#4de3e3",
-    "hoverBackground": "#f3b863"
+    "hoverBackground": "#0093a3"
   },
   "ui": {
     "*": {

@@ -795,13 +795,13 @@
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="41454b" />
+                <option name="BACKGROUND" value="1f2628" />
                 <option name="ERROR_STRIPE_COLOR" value="656e76" />
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="264b33" />
+                <option name="BACKGROUND" value="002931" />
                 <option name="ERROR_STRIPE_COLOR" value="447152" />
             </value>
         </option>
