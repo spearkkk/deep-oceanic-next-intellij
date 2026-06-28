@@ -4,10 +4,10 @@
 	<a href="https://github.com/spearkkk/deep-oceanic-next">Deep Oceanic Next</a> Color Theme for <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme">IntelliJ</a>
 </h3>
 <p align="center">
-	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/stargazers"><img src="https://img.shields.io/github/stars/spearkkk/deep-oceanic-next-intellij?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
-	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/contributors"><img src="https://img.shields.io/github/contributors/spearkkk/deep-oceanic-next-intellij?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
-    <a href="https://github.com/spearkkk/deep-oceanic-next-intellij"><img src="https://img.shields.io/github/actions/workflow/status/spearkkk/deep-oceanic-next-intellij/build.yml?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
-    <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme"><img src="https://img.shields.io/jetbrains/plugin/d/25272?colorA=001c1f&colorB=f3b863&style=for-the-badge"></a>
+	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/stargazers"><img src="https://img.shields.io/github/stars/spearkkk/deep-oceanic-next-intellij?colorA=00191d&colorB=fff44f&style=for-the-badge"></a>
+	<a href="https://github.com/spearkkk/deep-oceanic-next-intellij/contributors"><img src="https://img.shields.io/github/contributors/spearkkk/deep-oceanic-next-intellij?colorA=00191d&colorB=fff44f&style=for-the-badge"></a>
+    <a href="https://github.com/spearkkk/deep-oceanic-next-intellij"><img src="https://img.shields.io/github/actions/workflow/status/spearkkk/deep-oceanic-next-intellij/build.yml?colorA=00191d&colorB=fff44f&style=for-the-badge"></a>
+    <a href="https://plugins.jetbrains.com/plugin/25272-deep-oceanic-next-theme"><img src="https://img.shields.io/jetbrains/plugin/d/25272?colorA=00191d&colorB=fff44f&style=for-the-badge"></a>
 </p>
 
 <!-- Plugin description -->
@@ -35,40 +35,40 @@ So, have you ever wondered what it’s like to dive into the unknown? To explore
 
 | Name  | Hex Code  | Description                  |
 |-------|-----------|------------------------------|
-| Base00 | `#001c1f` | Primary Background          |
-| Base01 | `#002931` | Secondary Background        |
-| Base02 | `#003640` | Tertiary Background         |
-| Base03 | `#004852` | Low Contrast Text Background |
-| Base04 | `#0093a3` | Dark Foreground             |
-| Base05 | `#d4e1e8` | Foreground                  |
-| Base06 | `#e0e9ef` | High Foreground             |
-| Base07 | `#f2f7f9` | Bright Foreground           |
+| Base00 | `#00191d` | Primary Background          |
+| Base01 | `#002d36` | Secondary Background        |
+| Base02 | `#00424f` | Tertiary Background         |
+| Base03 | `#006170` | Low Contrast Text Background |
+| Base04 | `#00b8c7` | Dark Foreground             |
+| Base05 | `#d8f3f5` | Foreground                  |
+| Base06 | `#eafffb` | High Foreground             |
+| Base07 | `#ffffff` | Bright Foreground           |
 
 ## Syntax Highlighting Colors
 
 | Name  | Hex Code  | Description                  |
 |-------|-----------|------------------------------|
-| Base08 | `#d3464d` | Warm Red - Variables, Errors |
-| Base09 | `#e37552` | Warm Orange - Constants      |
-| Base0A | `#f3b863` | Muted Gold - Classes, Functions |
-| Base0B | `#63b784` | Fresh Green - Strings        |
-| Base0C | `#4fb7ae` | Aqua Cyan - Support, Regex   |
-| Base0D | `#568ccf` | Oceanic Blue - Keywords      |
-| Base0E | `#8b66d6` | Vibrant Purple - Markup      |
-| Base0F | `#d0658e` | Warm Pink - Deprecated       |
+| Base08 | `#ff4d6d` | Warm Red - Variables, Errors |
+| Base09 | `#ffc061` | Warm Orange - Constants      |
+| Base0A | `#fff44f` | Muted Gold - Classes, Functions |
+| Base0B | `#00ff9c` | Fresh Green - Strings        |
+| Base0C | `#00f5ff` | Aqua Cyan - Support, Regex   |
+| Base0D | `#33b5ff` | Oceanic Blue - Keywords      |
+| Base0E | `#d966ff` | Vibrant Purple - Markup      |
+| Base0F | `#ff7fcb` | Warm Pink - Deprecated       |
 
 ## Additional Colors
 
 | Name  | Hex Code  | Description                  |
 |-------|-----------|------------------------------|
-| Base10 | `#1f2628` | Darker Black for Highlights  |
-| Base11 | `#2a2f30` | Darkest Black for Shadows    |
-| Base12 | `#ff6670` | Bright Red - Warnings        |
-| Base13 | `#ffe08a` | Bright Yellow - Highlights   |
-| Base14 | `#72e1a6` | Bright Green - Success Indicators |
-| Base15 | `#4de3e3` | Bright Cyan - Links          |
-| Base16 | `#5caeff` | Bright Blue - Active States  |
-| Base17 | `#b788ff` | Bright Purple - Accents      |
+| Base10 | `#001014` | Darker Black for Highlights  |
+| Base11 | `#00090b` | Darkest Black for Shadows    |
+| Base12 | `#ff7890` | Bright Red - Warnings        |
+| Base13 | `#fff87a` | Bright Yellow - Highlights   |
+| Base14 | `#5cffb8` | Bright Green - Success Indicators |
+| Base15 | `#59fbff` | Bright Cyan - Links          |
+| Base16 | `#7dccff` | Bright Blue - Active States  |
+| Base17 | `#e0a8ff` | Bright Purple - Accents      |
 
 # ❣️ Deep Oceanic Next Color Theme: Inspirations
 
